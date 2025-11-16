@@ -1,7 +1,7 @@
 
 ---
 
-# ✅ **3. CODEOWNERS (pronto para colar)**
+# ✅ **3. CODEOWNERS**
 
 ```txt
 # Donos responsáveis pelo código
