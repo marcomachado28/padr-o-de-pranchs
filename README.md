@@ -6,4 +6,4 @@
 ```txt
 # Donos responsáveis pelo código
 # O usuário abaixo será responsável por revisar pull requests
-* @marcomachado28
+* @marcomachado28GitHub
